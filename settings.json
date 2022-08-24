@@ -1,4 +1,12 @@
 {
+  "workbench.colorCustomizations": {
+      "activityBar.background": "#768f92",
+      "titleBar.activeBackground": "#829d72",
+      "titleBar.activeForeground": "#5809ce",
+      "icon.foreground": "#374d1c",
+      "symbolIcon.colorForeground": "#ff0000",
+      "activityBar.inactiveForeground": "#524747"
+    },
   "editor.rename.enablePreview": false,
   "workbench.editor.enablePreview": false,
   "editor.renderWhitespace": "all",
@@ -7,8 +15,8 @@
   "terminal.explorerKind": "external",
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
-  "window.zoomLevel": 3,
   "workbench.colorTheme": "Atom One Light",
   "editor.fontFamily": "FiraCode-Retina",
-  "editor.fontWeight": "600"
+  "editor.fontWeight": "600",
+  "window.zoomLevel": 4
 }
