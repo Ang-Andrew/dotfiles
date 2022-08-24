@@ -1,0 +1,14 @@
+{
+  "editor.rename.enablePreview": false,
+  "workbench.editor.enablePreview": false,
+  "editor.renderWhitespace": "all",
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "terminal.explorerKind": "external",
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 3,
+  "workbench.colorTheme": "Atom One Light",
+  "editor.fontFamily": "FiraCode-Retina",
+  "editor.fontWeight": "600"
+}
