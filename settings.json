@@ -1,12 +1,4 @@
 {
-  "workbench.colorCustomizations": {
-      "activityBar.background": "#768f92",
-      "titleBar.activeBackground": "#e2e4e0",
-      "titleBar.activeForeground": "#000000",
-      "icon.foreground": "#000000",
-      "symbolIcon.colorForeground": "#ff0000",
-      "activityBar.inactiveForeground": "#524747"
-    },
   "editor.rename.enablePreview": false,
   "workbench.editor.enablePreview": false,
   "editor.renderWhitespace": "all",
@@ -15,7 +7,6 @@
   "terminal.explorerKind": "external",
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
-  "workbench.colorTheme": "Atom One Light",
   "editor.fontWeight": "600",
   "window.zoomLevel": 4
 }
